@@ -10,3 +10,5 @@ Ages.shift()
 
 //This is removing our last value
 pottyTrained.pop()
+
+//Index positions are the positions of the elements in the list. The first element starts at 0, and they go up from there. 
